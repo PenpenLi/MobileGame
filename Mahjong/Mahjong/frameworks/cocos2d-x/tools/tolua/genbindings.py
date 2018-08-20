@@ -142,10 +142,11 @@ def main():
 				
 				
         cmd_args = {#'cocos2dx_test.ini':('MyClass','lua_MyClass_auto'), \
-        						#'cocos2dx_manual_ImageLoader.ini':('ImageLoader','lua_Manual_ImageLoader'), \
-        						#'cocos2dx_GameFrame.ini':('NetSession','lua_GameFrame_auto'), \
-        						'cocos2dx_UpdateService.ini':('UpdateService','lua_UpdateService_auto'), \
-        						#'cocos2dx.ini' : ('cocos2d-x', 'lua_cocos2dx_auto'), \
+									#'cocos2dx_manual_ImageLoader.ini':('ImageLoader','lua_Manual_ImageLoader'), \
+        					#'cocos2dx_GameFrame.ini':('NetSession','lua_GameFrame_auto'), \
+        					'cocos2dx_GameFramePlatform.ini':('GameFramePlatform','lua_GameFramePlatform_auto'), \
+        					#'cocos2dx_UpdateService.ini':('UpdateService','lua_UpdateService_auto'), \
+        					#'cocos2dx.ini' : ('cocos2d-x', 'lua_cocos2dx_auto'), \
                     #'cocos2dx_extension.ini' : ('cocos2dx_extension', 'lua_cocos2dx_extension_auto'), \
                     #'cocos2dx_ui.ini' : ('cocos2dx_ui', 'lua_cocos2dx_ui_auto'), \
                     #'cocos2dx_studio.ini' : ('cocos2dx_studio', 'lua_cocos2dx_studio_auto'), \

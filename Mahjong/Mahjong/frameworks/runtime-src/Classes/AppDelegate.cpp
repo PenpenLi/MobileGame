@@ -9,7 +9,7 @@
 #include "scripting/lua-bindings/auto/lua_GameFrame_auto.hpp"
 #include "scripting/lua-bindings/auto/lua_GameFramePlatform_auto.hpp"
 #include "scripting/lua-bindings/auto/lua_UpdateService_auto.hpp"
-#include "f:/Code/MobileGame/Mahjong/GameFrame/proj.win32/UpdateService.h"
+#include "../../../GameFrame/proj.win32/UpdateService.h"
 using namespace CocosDenshion;
 
 USING_NS_CC;
